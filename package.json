@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-express-typescript-example",
+  "version": "1.0.0",
+  "description": "Small NodeJS and Express example using Typescript",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maxime AUBURTIN",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
